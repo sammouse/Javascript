@@ -13,7 +13,7 @@ html='<ul>' +
 //below used in ES6
 
 function hello(){
-    return "hello world";
+    return "hello world     ";
 }
 
 html=`
